@@ -11,6 +11,10 @@
     --cor-g7: #e59317; 
     --cor-p5:#320;
     --cor-8:#8b8b8b;
+    --cor-2:#e7e7e7;
+    --cor-p4: rgb(92, 65, 10);
+
+
 
 
 
@@ -27,4 +31,11 @@
 
 .cor-8{
     color: var(--cor-8);
+}
+
+.cor-p5{
+    color: var(--cor-p5);
+}
+.cor-p4{
+    color: var(--cor-p4);
 }
