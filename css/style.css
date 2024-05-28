@@ -2,6 +2,7 @@
 @import url(./global/global.css);
 /* Home */
 @import url(./home/introducao.css);
+@import url(./home/tecnologia.css);
 /* Utilidades */
 @import url(./utilidades/componentes.css);
 @import url(./utilidades/tipografia.css);
