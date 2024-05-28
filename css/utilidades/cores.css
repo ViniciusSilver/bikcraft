@@ -13,6 +13,8 @@
     --cor-8:#8b8b8b;
     --cor-2:#e7e7e7;
     --cor-p4: rgb(92, 65, 10);
+    --cor-6:#a7a7a7;
+    --cor-9:#4d4d4d;
 
 
 
@@ -38,4 +40,7 @@
 }
 .cor-p4{
     color: var(--cor-p4);
+}
+.cor-6{
+    color: var(--cor-6);
 }
