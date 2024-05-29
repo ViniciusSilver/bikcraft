@@ -10,6 +10,7 @@
 @import url(./utilidades/componentes.css);
 @import url(./utilidades/tipografia.css);
 @import url(./utilidades/cores.css);
+@import url(./utilidades/formulario.css);
 
 /* Bicicletas */
 @import url(./bicicletas/bicicletas-lista.css);
@@ -23,6 +24,10 @@
 @import url(./seguros/seguros.css);
 @import url(./seguros/perguntas.css);
 @import url(./seguros/vantagens.css);
+
+/* Contato */
+@import url(../contato/contato.css);
+@import url(../contato/lojas.css);
 
 /* termos */
 @import url(./termos/termos.css);
